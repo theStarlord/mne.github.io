@@ -11,7 +11,7 @@ $$ 3 \int_{0}^{x} x^{2} dx = x^{3}$$
 
 or this,
 
-$$ e^{i\pi} = 1$$
+$$ e^{i\pi} + 1 = 0$$
 
 Fun, isn't it?
 
