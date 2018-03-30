@@ -1,6 +1,6 @@
 # Site settings
-title: Ish Mohan Gupta
-description: 'A random physicist'
+title: Adventures in Space and Time
+description: 'The journey of an aspiring physicist towards deciphering what the universe has to offer.'
 url: 'http://thestarlord.github.io'
 baseurl: ''
 # google_analytics: 'UA-XXXXXX-X'
@@ -12,7 +12,7 @@ author:
   twitter_username: IshMohan
   facebook_username: IshMohanGupta
   github_username:  theStarlord
-  linkedin_username:  ''
+  linkedin_username: ishmgupta
 
 defaults:
   -

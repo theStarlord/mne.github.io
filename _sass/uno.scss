@@ -982,8 +982,11 @@ h5 {
 p {
 	margin-bottom: 1.3em;
 	line-height: 2em; 
-	text-align: justify;
 	}
+	
+.content-wrapper__inner p {
+	text-align: justify;
+}
 
 strong {
 	font-weight: bold; }
