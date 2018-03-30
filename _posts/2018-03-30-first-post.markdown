@@ -9,6 +9,10 @@ Yayy! Seems we have some upgrades. I have a new blog. Why? Because change is a g
 
 $$ 3 \int_{0}^{x} x^{2} dx = x^{3}$$
 
+or this,
+
+$$ e^{i\pi} = 1$$
+
 Fun, isn't it?
 
 
