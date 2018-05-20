@@ -1,5 +1,5 @@
 ---
-title:  "Plans for the summer"
+title:  "To-do list for the summer"
 date:   2018-04-21
 categories: [Life]
 tags: [Life]
