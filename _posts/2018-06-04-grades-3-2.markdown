@@ -6,7 +6,7 @@ tags: [Life]
 ---
 Finally got my grades for the semester that just ended, i.e. year 3 semester 2, or 3-2. And I NAILED IT! Yeah, I'll brag a bit. I guess I deserve that much given the amount of work that went into this!
 
-![Grades 3-2](thestarlord.github.io/images/3-2.png "Grades 3-2")
+![Grades 3-2](https://github.com/theStarlord/theStarlord.github.io/blob/master/images/3-2.png "Grades 3-2")
 
 So, as you see, **A**s in all except Process Dynamics and Control in which I got an **A-**. A short description of our grading system. We have a scale of 2 to 10. 10 = A, 9 = A-, 8 = B, and so on. The grading is relative, meaning that the top 5% in the class get an **A** (in general) and so on. Such a grading system in also called *grading on a curve*. The picture also shows two cumulative grades, my semester GPA (grade point average) which is **9.875** and my total GPA, also called the **CGPA**, an average of all my semester GPAs, which is **9.29**. Though it is a decrease comparing to my last semester when I got a semester GPA of **10**, but still, I am too happy to complain. So I won't.
 
