@@ -1,6 +1,6 @@
 ---
 title:  "Got my grades for Year 3, Semester 2!"
-date:   2018-06-04
+date:   2018-06-01
 categories: [Life]
 tags: [Life]
 ---
