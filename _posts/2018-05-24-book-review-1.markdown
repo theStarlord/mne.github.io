@@ -1,6 +1,6 @@
 ---
 title:  "Book Review #1- 1984 by George Orwell"
-date:   2018-05-26
+date:   2018-05-24
 categories: [Book Review]
 tags: [Book Review]
 ---
