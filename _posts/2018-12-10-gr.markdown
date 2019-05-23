@@ -1,0 +1,29 @@
+---
+title:  "Generally relative?!"
+date:   2018-12-10
+categories: [Life]
+tags: [Life]
+---
+
+Hello, fellow humans.
+
+The semester is taking its toll on me. Not so much, but to the extent that I am not able to put my views into words on this blog on a monthly basis. But, guess what, here I am and I'll be talking about general relativity.
+
+I have always wanted to study general relativity, to understand Einstein's famous equation,
+
+$$ G_{\mu \nu} = 8\pi G T_{\mu \nu}. $$
+
+I first came across this equation when, in one of his Yotube videos, Prof. Michio Kaku talked about it and emphasized how beautiful it is that such a small and concise equation is able to explain so much. At that time, I only agreed with the beauty part, but now, I agree with the 'explain so much' part as well.
+
+Let's start at the start. I took a course in general relativity this semester. My hope was to understand the fundamentals and start working in the field. So, I was excited, also because the field seemed damn cool. We followed the book 'Spacetime and Geometry' by Sean Carroll and that was easily half the reason behind me enjoying this course. At first I felt that the book was a bit verbose, explaining too much where it wasn't articularly necessary, but after going through some topics in the book that I didn't understand well in the class, I started appreciating the verbosity and the time taken by the author to explain things. Carroll understands what topics might confuse a student, a first-time reader, and gives it time and takes pain to explain the equations and involved derivations in words. Thus, I highly recommend reading this book if you want self-study the subject. 
+
+The second book that we referred to while doing this course was 'General Relativity' by Wald. Unlike Carroll's version, I don't recommend this book to a beginner. It is way too concise/mathematical for a first-time reader. However, having done an introductory course in gravity, maybe by using Carroll, the book by Wald will be the best step forward, as it will strengthen your grasp of the subject by improving your understanding of the mathematics involved, rather formally, sometimes tediously, but overall, gracefully.
+
+Now let's talk about the subject. I had already studied a bit of general relativity in the Theory of Relativity course. Well, that might be an overstatement. I had learned how to calculate things in general relativity, specifically, obtaining the geodesics, Killing vectors, Reimann tensor, Ricci tensor and scalar. So, I knew how to comment on the curvature related to a given metric, however, that was about it. This time on, I was able to understand what things meant. Why does the equation of parallel transport, or geodesics, or the Friedmann equation looks the way it does. We also studied a bit of cosmology, where we started with deriving a few relations for the scale factor and, given an equation of state, commenting on their evolution in time. Overall, it was a fun experience. I realize that the course was introductory, but it was elaborate enough to not only make me capable enough to understand papers in the field and work in it, but also to make me realize that this is the field I really want to work in, in the long run. 
+
+I have already told you half the reason behind enjoying the course, the other half was the instructor, Dr. Kinjal Banerjee. He was precise, concise, elaborate when required and emphasized a lot on doing the derivations by ourselves. He also paid attention to problem-solving, giving us problems after teaching a a concept or two, which helped us understand the subject well. I don't know if I have told you this, I love teaching people and whenever I take a course I always take notice of the teaching methods of the instructor. In doing so, I always keep a note of the good characteristics, ones I would want to inculate when I am teaching, and reject the bad ones, one I will make sure to never inhabit. Cming to Kinjal sir, I am happy to say that I will definitely be taking a lot from his style and organisation. 
+
+While studying this subject, I also realized the importance of 'leap of faith' in physics. Knowing that the EInstein's equation, the beautiful thing I mentioned in the beginning, was itself an educated leap of faith. I guess that is what differentiates physics from mathematics, the 'human' component, the intuition component, the component that makes the theory 'physical'. However, that also makes the theory susceptible to being falsified. You might think that is a bad thing, but it really isn't. This just means that there might be a better theory out there, which translates to more work for us aspiring physicists ;)
+
+
+
